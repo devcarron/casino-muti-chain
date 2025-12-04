@@ -12,7 +12,7 @@ By using strong encryption ways, all backend calling and data management process
 3 times withdraw and deposit checking process protect user's funds.
 
 # Real Time Tracking Dashboard
-For comfortable game management for the team, it has real-time tracking dashboard for every games.
+For comfortable game management for the team, it has real-time tracking dashboard for every games..
 
 <p>
      <a href="https://x.com/gamedevcarron" target="_blank"><img alt="Twitter"
