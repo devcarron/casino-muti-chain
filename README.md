@@ -15,11 +15,11 @@ By using strong encryption ways, all backend calling and data management process
 For comfortable game management for the team, it has real-time tracking dashboard for every games.
 
 <p>
-     <a href="https://x.com/blacksky_jose" target="_blank"><img alt="Twitter"
+     <a href="https://x.com/gamedevcarron" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://t.me/blacksky_jose" target="_blank"><img alt="Telegram"
+<a href="https://t.me/gamedevcarron" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://discord.gg/blacksky_jose" target="_blank"><img alt="Discord"
+<a href="https://discord.gg/gamedevcarron" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
